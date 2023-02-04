@@ -1,0 +1,656 @@
+{
+  "products": [
+    {
+      "name": "Maroon Oxford Shirt (Slim Fit)",
+      "identity": "slimFit",
+      "price": 2190,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/130623481.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/130625434.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/130625723.webp"
+      ],
+      "size": {
+        "xl": 6,
+        "xxl": 8
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 1,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Light Pink Sports POLO",
+      "identity": "POLO",
+      "price": 2190,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/1516151001.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/151618945.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/151616763.webp"
+      ],
+      "size": {
+        "M": 3,
+        "L": 8,
+        "xl": 9,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 2,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "White Oxford shirt (Slim Fit)",
+      "identity": "slimFit",
+      "price": 2390,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/172332704.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/1723333110.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/172332163.webp"
+      ],
+      "size": {
+        "M": 6,
+        "L": 3,
+        "xl": 6,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 3,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Marine Blue POLO",
+      "identity": "POLO",
+      "price": 1890,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/162458333.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/162458954.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/162501997.webp"
+      ],
+      "size": {
+        "M": 9,
+        "L": 10,
+        "xl": 7,
+        "xxl": 7
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 4,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Aqua Zip Polo",
+      "identity": "POLO",
+      "price": 2090,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/181934254.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/181935345.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/181932122.webp"
+      ],
+      "size": {
+        "M": 7,
+        "L": 10,
+        "xl": 9,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 5,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Pure Black Shirt (Slim Fit)",
+      "identity": "slimFit",
+      "price": 2490,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/164232171.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/164234483.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/164235564.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 9,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 6,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Burgundy Zip Polo",
+      "identity": "POLO",
+      "price": 1890,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/152021501.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/152021182.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 7,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 7,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Black Gold Zip Polo",
+      "identity": "POLO",
+      "price": 2090,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/162453775.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/16245273.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/162450641.webp"
+      ],
+      "size": {
+        "M": 8,
+        "L": 7,
+        "xl": 10,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 8,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Pure White Gold POLO",
+      "identity": "POLO",
+      "price": 2490,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/163020511.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/16302173website3.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/16302173website3.webp"
+      ],
+      "size": {
+        "M": 7,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 9,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Black Grey FITTED Polo",
+      "identity": "POLO",
+      "price": 1550,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/175705652.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/175707304.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/175708396.webp"
+      ],
+      "size": {
+        "M": 7,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 10,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Marble Green Basic Polo",
+      "identity": "POLO",
+      "price": 1650,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/131454331.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/131456684.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/131455992.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 11,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Yellow and Navy Rugby",
+      "identity": "POLO",
+      "price": 1590,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/155220462.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/155221703needsrework.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/1552221005.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 12,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Gold Black Polo",
+      "identity": "POLO",
+      "price": 1690,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/171442652.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/171444134.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/171442981.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 13,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Camel Oxford Shirt (Slim Fit)",
+      "identity": "slimFit",
+      "price": 2690,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/140011803.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/140012104.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/140011832.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 14,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Olive Oxford Shirt (Slim Fit)",
+      "identity": "slimFit",
+      "price": 3590,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/17250721.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/172508212.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/172509523.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 15,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Grey Oxford Shirt (Slim FIt)",
+      "identity": "slimFit",
+      "price": 2090,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/173015302.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/173016715.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/173016594.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": -5,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 16,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Blue Oxford Shirt (Modern Fit)",
+      "identity": "slimFit",
+      "price": 2590,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/142325982.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/142326303.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/142327584.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 17,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Sky Blue Denim Shirt (Modern Fit)",
+      "identity": "slimFit",
+      "price": 2490,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/145120783.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/145119112.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/145120404.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 18,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Aqua Oxford Shirt (Modern Fit)",
+      "identity": "slimFit",
+      "price": 2290,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/18003734d.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/18003978s.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/18003689a.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 19,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Brick Oxford Shirt (Slim Fit)",
+      "identity": "slimFit",
+      "price": 1990,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/151242344.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/151241683a.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/151241421.webp"
+      ],
+      "size": {
+        "M": 4,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 20,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Red Stripe Oxford Shirt (Modern Fit)",
+      "identity": "slimFit",
+      "price": 2590,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/14491858th.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/144916823.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/144915101.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 21,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/23265657slim-v2.jpg"
+    },
+    {
+      "name": "Textured Blue Sports",
+      "identity": "POLO",
+      "price": 1090,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/153812672.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/153812961.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/153813123.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 22,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    },
+    {
+      "name": "Two Tone Blue POLO",
+      "identity": "POLO",
+      "price": 1990,
+      "images": [
+        "https://cdn.storeshark.pk/store/1/products/images/17072615th.webp",
+        "https://cdn.storeshark.pk/store/1/products/images/170723652(1).webp",
+        "https://cdn.storeshark.pk/store/1/products/images/170725955.webp"
+      ],
+      "size": {
+        "M": 10,
+        "L": 10,
+        "xl": 10,
+        "xxl": 10,
+        "total_quantity": 40
+      },
+      "note": "A multistep process that includes high-tension yarn-spinning gives this shirt's pure cotton poplin a dose of softeness/comfort for ease of movement. Oxford shirts are named for their weave, slightly coarser than most shirts providing the lightest texture. A classic all-rounder, business and casual Oxford shirts alike can be worn in all seasons.",
+      "description": [
+        "✓ 100% Premium Cotton",
+        "✓ Medium Weight Fabric",
+        "✓ Available in single cuff with two buttons.",
+        "✓ Easy Iron finish.",
+        "✓ Slim Fit",
+        "✓ Resin Buttons",
+        "✓ Machine washable"
+      ],
+      "id": 23,
+      "measurement": "https://cdn.storeshark.pk/store/1/sizechart/16281619polotemplate.jpg"
+    }
+  ]
+}

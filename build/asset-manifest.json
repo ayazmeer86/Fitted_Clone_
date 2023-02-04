@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fitted_Clone/static/css/main.9283ac69.css",
+    "main.js": "/Fitted_Clone/static/js/main.e464af1e.js",
+    "static/js/787.607b8da7.chunk.js": "/Fitted_Clone/static/js/787.607b8da7.chunk.js",
+    "index.html": "/Fitted_Clone/index.html",
+    "main.9283ac69.css.map": "/Fitted_Clone/static/css/main.9283ac69.css.map",
+    "main.e464af1e.js.map": "/Fitted_Clone/static/js/main.e464af1e.js.map",
+    "787.607b8da7.chunk.js.map": "/Fitted_Clone/static/js/787.607b8da7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9283ac69.css",
+    "static/js/main.e464af1e.js"
+  ]
+}
